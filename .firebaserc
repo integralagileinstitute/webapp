@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "integralassessment"
+  },
+  "targets": {
+    "integralassessment": {
+      "hosting": {
+        "integral-assessment-admin-new": [
+          "integral-assessment-admin-new"
+        ]
+      }
+    }
+  }
+}
