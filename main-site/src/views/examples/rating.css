@@ -1,0 +1,15 @@
+.rating-hollow {
+  color: #adb5bd;
+  font-size: 20px;
+  margin: 0 2.7vw;
+}
+.rating-full {
+  color: #172b4d;
+  font-size: 20px;
+  margin: 0 2.7vw;
+}
+.rating-number {
+  color: #adb5bd;
+  font-size: 20px;
+  margin: 0 2.9vw;
+}
